@@ -103,12 +103,3 @@
   <br />
 
 </div>
-
-<h3 align="left">Support:</h3>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germdz&show_icons=true&locale=en&layout=compact" alt="FullStackStar" /></p> <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gentlemen726&show_icons=true&locale=en" alt="FullStackStar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FullStackStar&" alt="FullStackStar" /></p>
